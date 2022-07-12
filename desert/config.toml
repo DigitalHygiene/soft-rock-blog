@@ -6,7 +6,7 @@ theme="etch-hugo"
 
 [params]
   description = "description"
-  copyright = "Copyright © 2045 dylan brandon"
+  copyright = "Copyright © 2022 dylan brandon"
   dark = "off"
   highlight = true
 
