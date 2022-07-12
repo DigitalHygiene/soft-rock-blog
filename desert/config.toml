@@ -1,6 +1,9 @@
-baseURL = ''
++++
+title = "About"
++++baseURL = ''
 languageCode = 'en-us'
-title = 'life in a vacuum'
+title = 'life iyyyyyy
+n a vacuum'
 theme="etch-hugo"
 
 
@@ -24,8 +27,5 @@ theme="etch-hugo"
     title = "about"
     url = "/about/"
     weight = 20
-
- 
-
 
   
